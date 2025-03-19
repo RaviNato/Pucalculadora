@@ -3,3 +3,5 @@ Declarações de variáveis
 Leitura de dados do programa
 
 Criação da função soma
+
+testes
